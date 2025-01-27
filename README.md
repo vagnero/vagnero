@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Vagner, sou de São Paulo, possuo 25 anos e estudo Análise e Desenvolvimento de Sistemas (5° Semestre) na Fatec. Atualmente possuo dois empregos e já atuo como desenvolvedor de sistemas e analista de dados</p>
+<p align="left">Olá, me chamo Vagner, sou de São Paulo, possuo 25 anos e estudo Análise e Desenvolvimento de Sistemas (6° Semestre) na Fatec. Atualmente trabalho na prefeitura Municipal de Ferraz de Vasconcelos, com 1 ano de experiência. Atuando como desenvolvedor de sistemas e analista de dados</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo a criar um servidor Voip com o Asterisk no Linux, para poder gerar uma aplicação web com a opção de chamadas em tempo real<br>🎯 Trabalhar para empresas estrangeiras<br>🎲 Gosto de trabalhar com tecnologia rsrs</p>
+<p align="left">📚 Já desenvolvi aplicações VOIP com o software Asterisk, site de pesquisa de opinião pública e atualmente um sistema de ambulâncias para a prefeitura de onde trabalho<br>🎯 Trabalhar como analista de dados ou desenvolvedor de sistemas na posição de junior<br>🎲 Gosto de trabalhar com tecnologia rsrs</p>
 
 ###
 
